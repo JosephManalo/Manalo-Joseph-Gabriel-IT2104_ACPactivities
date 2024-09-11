@@ -1,8 +1,0 @@
-char,char1  = input("Enter two space-sperated character: ").split()
-greater = max(char, char1)
-print("-----------------------------")
-print("The character with greater value is:" + greater)
-print("-----------------------------")
-print("Showing ASCII Values: ")
-print("1 :",ord(char))
-print("a :",ord(char1))
